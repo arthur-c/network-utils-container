@@ -11,6 +11,7 @@ Simple container based on Debian with a few network utilities installed, namely:
   - net-tools (arp, ifconfig, netsat, rarp, nameif, route & more)
   - netcat (openbsd version)
   - nmap
+  - ping
   - telnet
   - traceroute
   - wget
