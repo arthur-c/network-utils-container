@@ -5,6 +5,7 @@ RUN apt-get update && \
     awscli \
     curl \
     dnsutils \
+    iputils-ping \
     jq \
     net-tools \
     netcat-openbsd \
